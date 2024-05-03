@@ -1,5 +1,5 @@
 # auto_lyrics
-動画の歌詞を検索し表示する  
+youtubeの再生リスト内の動画の歌詞を電子書籍風に表示する  
 現在、就活の為、パブリックにしているが、テスト中である。  
 基本的に自身以外の環境で動くかは調べていない。   
 事前準備として環境の構築、youtubeAPIの導入が必要。  
@@ -8,6 +8,11 @@
 
 ## pip install
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+
+## youtubeAPI
+<https://console.cloud.google.com>からprojectを作成  
+youtubeAPIを有効化  
+認証情報からAPI キーとOAuth 2.0 クライアント IDを作成  
 
 ## get_playlists.py
 YouTubeにログインし、プレイリストがあれば取得
