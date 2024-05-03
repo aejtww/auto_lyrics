@@ -8,6 +8,7 @@ youtubeの再生リスト内の動画の歌詞を電子書籍風に表示する
 
 ## pip install
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+pip install Jinja2
 
 ## youtubeAPI
 <https://console.cloud.google.com>からprojectを作成  
