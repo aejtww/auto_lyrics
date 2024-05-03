@@ -1,4 +1,4 @@
-# auto_lyrics
+# make_youtube_playlists_lyrics
 youtubeの再生リスト内の動画の歌詞を電子書籍風に表示する  
 現在、就活の為、パブリックにしているが、テスト中である。  
 基本的に自身以外の環境で動くかは調べていない。   
