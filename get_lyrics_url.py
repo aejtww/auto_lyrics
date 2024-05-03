@@ -13,8 +13,8 @@ def google_search(query, api_key, cx):
     return data
 
 # APIキーと検索エンジンID（cx）を設定
-api_key = "AIzaSyA7BzwMKg0eKkBBnBZJ-_IxYt5a3nOhgf8"
-cx = "33e6eb811f35f4a61"
+api_key = "YOUR_API_KEY"
+cx = "YOUR_SEARCH_ENGINE_ID"
 
 # 検索クエリを入力
 query = search_word
